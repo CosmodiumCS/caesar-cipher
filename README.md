@@ -26,7 +26,7 @@ Choose an Option :
 3) Bruteforce                                                                                                           
 4) Exit 
 ```
-- Options
+### Options
 1. Encrypt
 ```
 Enter File Name : helloworld.txt
